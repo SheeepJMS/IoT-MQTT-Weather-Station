@@ -12,11 +12,11 @@ There are three type of sensors for this project:
 * A BMP280 pressure sensor
 * A CCS811 air quality sensor
 
-###Sensor interface:
+##Sensor interface:
 
 ![image](https://user-images.githubusercontent.com/115898447/196005914-650c7d93-d574-41a0-abf4-9d5ca24ec6cf.png)
 
 
-###Dashboard:
+##Dashboard:
 
 ![image](https://user-images.githubusercontent.com/115898447/196005986-423b3f83-ca91-41a2-a6bf-94de27c20b44.png)
